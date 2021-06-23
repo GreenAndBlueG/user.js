@@ -67,12 +67,13 @@
 
 ## Installation
 
-1. Simply download [user.js](user.js).
+1. Simply download [user.js](user.js), [userChrome.css](userChrome.css) and [userContent.css](userContent.css).
 2. Visit `about:support` in Firefox to see your profile directory.
 3. Copy [user.js](user.js) into your profile folder.
+4. Create a folder called `chrome` and copy `userChrome.css` and `userContent.css` into that
 
 ## Credits
 
-- Many hardening enhancements were taken from [PrivacyTools.io](https://www.privacytools.io/browsers/#about_config) and [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js)
+- This user.js is a mergin of [Peafox](https://github.com/spikecodes/peafox) and [Original Lepton](https://github.com/black7375/Firefox-UI-Fix)
 
 BTC: `bc1q72l5jtjcxlma8knwt80nwm5c9wccu45tt7y02g`
