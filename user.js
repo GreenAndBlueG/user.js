@@ -1,8 +1,9 @@
 // --------------------------
-// PEAFOX PREF MODIFICATIONS
+// GABG'S USER.JS PREF MODIFICATIONS
 // --------------------------
 
 // GENERAL
+user_pref("user.js", "GABG");
 user_pref("browser.download.useDownloadDir", false);
 user_pref("browser.tabs.drawInTitlebar", true);
 user_pref("toolkit.cosmeticAnimations.enabled", false);
@@ -211,6 +212,14 @@ user_pref("extensions.pocket.enabled", false);
 user_pref("extensions.pocket.oAuthConsumerKey", "");
 user_pref("extensions.pocket.site", "");
 
+// DISABLE SOME PROTON UI STYLE
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true); // Activate userchrome.css and usercontent.css
+user_pref("svg.context-properties.content.enabled", true); // Fill SVG Color
+user_pref("layout.css.backdrop-filter.enabled", true); // CSS Blur Filter
+user_pref("browser.compactmode.show", true); // Restore Compact Mode
+user_pref("browser.newtabpage.activity-stream.improvesearch.handoffToAwesomebar", false); //Restore old-style Search Bar
+user_pref("browser.urlbar.suggest.calculator", true); // Integrated calculator in the urlbar
+
 // --------------------------
-// END PEAFOX PREF MODIFICATIONS
+// END GABG'S USER.JS PREF MODIFICATIONS
 // --------------------------
