@@ -23,6 +23,7 @@
 	- Default DoH provider is [LibreDNS](https://libredns.gr)
 - New Tab Page URL can be changed without extensions.
 	- See the [wiki](https://github.com/peacockweb/peafox/wiki/changing-the-new-tab-page).
+- Look-and-feel in between PhotonUI and ProtonUI
 
 ### Enhancing Features
 #### General
@@ -75,5 +76,3 @@
 ## Credits
 
 - This user.js is a mergin of [Peafox](https://github.com/spikecodes/peafox) and [Original Lepton](https://github.com/black7375/Firefox-UI-Fix)
-
-BTC: `bc1q72l5jtjcxlma8knwt80nwm5c9wccu45tt7y02g`
